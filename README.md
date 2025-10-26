@@ -1,5 +1,5 @@
 # Git and Github Lab
-- Lab objectives:
+- I change in B Lab objectives:
  Understand basic Git concepts. 
  Create and manage local and remote repositories. 
  Use essential Git commands. 
